@@ -1,6 +1,3 @@
-Here’s a professional and informative `README.md` file for your Qt-based **To-Do List Application**:
-
----
 
 # 📝 Qt To-Do List App
 
@@ -40,9 +37,6 @@ This is a simple desktop **To-Do List** application built using **Qt (C++)**. It
 ├── tasks.txt              # Auto-generated file storing tasks
 ```
 
-## 📸 Screenshot (Optional)
-
-*You can include a screenshot here of the running application.*
 
 ## 🧪 How It Works
 
@@ -66,6 +60,3 @@ This is a simple desktop **To-Do List** application built using **Qt (C++)**. It
 
 This project is open-source and free to use for educational or personal purposes.
 
----
-
-Would you like me to help you add this `README.md` to your project folder or generate one with Markdown syntax for download?
